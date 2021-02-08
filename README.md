@@ -10,4 +10,8 @@
 - To test python: 
 `>conda activate base`
 `>python`
-`>python 3.8 ...`
+`#launches python interpreter`
+- To test jupyter notebook:
+`>conda activate base`
+`>jupyter notebook`
+`#launches the notebook server at localhost:8888`
