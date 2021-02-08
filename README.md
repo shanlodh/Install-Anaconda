@@ -8,6 +8,6 @@
 - Run the shell script with 2 command line arguments: `downloadFile` and `targetFolder`
 - Both steps will take ~1hr to complete depending on network connection
 - To test python: 
-  `>conda activate base
-   >python
-   >python 3.8 ...`
+`>conda activate base`
+`>python`
+`>python 3.8 ...`
