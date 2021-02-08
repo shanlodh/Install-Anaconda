@@ -1,4 +1,4 @@
 # Install-Anaconda
 
 - Download the .ps1 script
-- Create a folder to install Anaconda 
+- Create a folder to install [Anaconda](https://www.anaconda.com/) 
